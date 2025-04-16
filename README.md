@@ -20,4 +20,3 @@ This project focuses on detecting spam content and identifying fake users on soc
 - NLTK / spaCy (for NLP tasks)
 - Matplotlib / Seaborn (for data visualization)
 - Flask (for deploying the model - optional)
-
