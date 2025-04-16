@@ -1,4 +1,6 @@
 # SPAM-DETECTION-AND-FAKE-USER-IDENTIFICATION-ON-SOCIAL-NETWORK
+
+
 # 🛡️ Spam Detection and Fake User Identification on Social Network
 
 This project focuses on detecting spam content and identifying fake users on social networking platforms using machine learning and data analysis techniques. It aims to enhance the integrity and safety of online communities by minimizing malicious activities such as spamming, impersonation, and bot-generated content.
@@ -20,3 +22,19 @@ This project focuses on detecting spam content and identifying fake users on soc
 - NLTK / spaCy (for NLP tasks)
 - Matplotlib / Seaborn (for data visualization)
 - Flask (for deploying the model - optional)
+
+✅ How to Run
+
+1.Install requirements (if needed):
+pip install flask pandas scikit-learn joblib
+
+2.Run the script:
+python spam_detector.py
+
+3.Test the API (optional):
+{
+  "text": "Congratulations, you won!"
+}
+
+**You can test it using Postman, curl, or even Python requests**
+
